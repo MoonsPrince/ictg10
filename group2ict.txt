@@ -3,7 +3,7 @@
 <head>
 <title>Group 2 The Best</title>
 <meta name= "description" content="A joke made by a student for their ICT project." >
-<meta name="keywords" content="submit site, submit, site" >
+<meta name="keywords" content="submit,eros,ict,site" >
 <meta name="msvalidate.01" content="68E20C47B8D8B6CE30AE832EAF6BEF32" />
 <meta name="robots" content="all">
 <link rel="stylesheet" href="mystyle.css">
